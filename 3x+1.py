@@ -2,7 +2,7 @@ import time
 
 print("3x + 1")
 
-startNumber = 5494
+startNumber = int(input("What was the last record created? "))
 number = 0
 
 while True:
