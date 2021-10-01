@@ -2,7 +2,7 @@ import time
 
 print("3x + 1")
 
-startNumber = 0
+startNumber = 5494
 number = 0
 
 while True:
@@ -17,7 +17,7 @@ while True:
     
     f.write(str(int(startNumber)) + " ")
     
-    time.sleep(0.01)
+    #time.sleep(0.001)
     
     while number != 1:
         
